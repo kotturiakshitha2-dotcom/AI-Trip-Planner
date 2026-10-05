@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated trip files
+generated_plans/
+
+# Streamlit
+.streamlit/
+
+# Environment/secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
